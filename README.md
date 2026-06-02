@@ -1,8 +1,8 @@
-Protein Domain & PDB Mapping Pipeline
+#Protein Domain & PDB Mapping Pipeline
 
-Overview
+##Overview
 
-This project implements a Python-based pipeline to extract protein domain information and map it to corresponding structural data from the Protein Data Bank (PDB). It integrates sequence annotations with structural references to enable domain-level protein analysis.
+#This project implements a Python-based pipeline to extract protein domain information and map it to corresponding structural data from the Protein Data Bank (PDB). It integrates sequence annotations with structural references to enable domain-level protein analysis.
 
 ⸻
 
